@@ -1,4 +1,4 @@
-# filemanagerdx
+# File Manager Flutter
 
 A new Flutter application.
 
