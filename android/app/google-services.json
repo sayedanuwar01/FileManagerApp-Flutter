@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "588820333036",
+    "firebase_url": "https://soru-sakla-c1751-default-rtdb.firebaseio.com",
+    "project_id": "soru-sakla-c1751",
+    "storage_bucket": "soru-sakla-c1751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588820333036:android:66aeef8e08d328c2fa40c9",
+        "android_client_info": {
+          "package_name": "com.harosoft.filemanagerdx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588820333036-c4ue451ri41vud7ivpogi9ea0mrg98c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ToSkEcMZfsppFM19TtPOhSEjKoTPWzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588820333036-c4ue451ri41vud7ivpogi9ea0mrg98c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588820333036-0smtqk2b5kofrbudk6ebd96oigi4hr1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sorusakla.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588820333036:android:0161ab8738d2fbf2fa40c9",
+        "android_client_info": {
+          "package_name": "com.sorusakla.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588820333036-4pf3s55nctvrqanl9t3okk3pjoq8q90k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorusakla.app",
+            "certificate_hash": "61e2e192646bcda4242e8cc3cc72c10357ebb076"
+          }
+        },
+        {
+          "client_id": "588820333036-c4ue451ri41vud7ivpogi9ea0mrg98c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ToSkEcMZfsppFM19TtPOhSEjKoTPWzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588820333036-c4ue451ri41vud7ivpogi9ea0mrg98c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588820333036-0smtqk2b5kofrbudk6ebd96oigi4hr1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sorusakla.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
